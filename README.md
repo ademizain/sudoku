@@ -1,5 +1,5 @@
 # Sudoku Game
-This is a Sudoku game program written in C++ that allows you to play Sudoku, generate new puzzles, and solve existing ones. It utilizes the X11 library for displaying the game board and XQuartz for macOS compatibility. Passed Google Tests for solve sudoku and test functions
+This is a Sudoku game program written in C++ that allows you to play Sudoku, generate new puzzles, and solve existing ones. It utilizes the X11 library for displaying the game board and XQuartz for macOS compatibility. Passed Google Tests for all test functions
 
 ### Features:
 - Play Sudoku
